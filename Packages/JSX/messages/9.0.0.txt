@@ -1,8 +1,0 @@
-babel-sublime
--------------
-
-* JSX indentation fixes.
-* Support for https://github.com/styled-components/styled-components
-  - See https://github.com/babel/babel-sublime/pull/289
-
-More coming up...
